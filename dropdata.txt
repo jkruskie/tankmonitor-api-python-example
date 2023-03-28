@@ -1,0 +1,60 @@
+
+I20C00
+01/25/23  8:58 PM
+
+pump n pour #2
+100 w. lincoln 
+alma mi 48801
+
+
+                                                                 Volume=GALLONS
+                                                                  Height=INCHES
+LAST DELIVERY REPORT                                            Temp=FAHRENHEIT
+
+
+TANK  1:regular             
+
+                                   Fuel     Water      Fuel      Fuel
+        Date / Time              Volume    Height      Temp    Height
+
+ START: 01/24/23  2:24 PM         11855      0.00     39.85     83.55
+   END: 01/24/23  2:33 PM         14719      0.00     39.51    102.86
+AMOUNT:                            2865
+
+
+
+TANK  2:premium             
+
+                                   Fuel     Water      Fuel      Fuel
+        Date / Time              Volume    Height      Temp    Height
+
+ START: 01/24/23  2:18 PM          2833      0.00     45.33     48.48
+   END: 01/24/23  2:23 PM          4225      0.00     44.42     65.85
+AMOUNT:                            1392
+
+
+
+TANK  3:diesel              
+
+                                   Fuel     Water      Fuel      Fuel
+        Date / Time              Volume    Height      Temp    Height
+
+ START: 01/22/23  4:52 PM         11202      0.00     44.62     67.45
+   END: 01/22/23  5:05 PM         17221      0.00     42.19     99.96
+AMOUNT:                            6019
+
+
+
+TANK  4:off rd diesel       
+
+                                   Fuel     Water      Fuel      Fuel
+        Date / Time              Volume    Height      Temp    Height
+
+ START: 01/22/23  4:45 PM          3536      0.00     46.32     67.16
+   END: 01/22/23  4:51 PM          4944      0.00     44.61     90.21
+AMOUNT:                            1408
+
+
+
+
+

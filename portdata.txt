@@ -1,0 +1,15 @@
+200
+pump n pour #2
+100 w. lincoln 
+alma mi 48801
+
+
+JAN 25, 2023 09:15 PM
+
+TANK  PRODUCT                GALLONS   INCHES   WATER  DEG F   ULLAGE
+  1   regular                   7370    56.82     0.0   41.0     9471
+  2   premium                   4082    64.09     0.0   44.6     3906
+  3   diesel                   11699    69.84     0.0   44.5     7444
+  4   off rd diesel             4821    88.04     0.0   45.5     1287
+
+
