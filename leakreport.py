@@ -48,4 +48,4 @@ if response.status_code == 200:
     print(response_data)
 else:
     # Print the error message
-    print(response_data['message'])
+    print(response_data)
