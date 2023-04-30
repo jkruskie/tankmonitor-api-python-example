@@ -13,7 +13,7 @@ config_file_path = 'config.yml'
 config_data = read_config_file(config_file_path)
 
 # Get the monitor mac address
-mac_address = config_data['monitor']['mac_address']
+mac_address = config_data['monitor']['macAddress']
 
 # Get the location guid
 location_guid = config_data['location']['guid']
@@ -56,7 +56,7 @@ if response.status_code == 200:
     # Print the response data
     print(response_data)
     # Save the token to the config.yml file
-    config_data['access_token'] = response_data['accessToken']
+    config_data['accessToken'] = response_data['accessToken']
     # Write the config.yml file
     with open(config_file_path, 'w') as file:
         yaml.dump(config_data, file)

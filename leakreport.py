@@ -27,7 +27,7 @@ print(monitor_guid)
 # Headers without Content-Type since requests library will set it automatically
 HEADERS = {
     'User-Agent': 'TankMonitorAPI/1.0.0',
-    'Authorization': 'Bearer ' + config_data['access_token']
+    'Authorization': 'Bearer ' + config_data['accessToken']
 }
 
 # Use 'with' statement to ensure the file is closed after reading
